@@ -1,12 +1,83 @@
-# React + Vite
+# Bhaso Donation Platform
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern fundraising and community engagement platform built for **Bhaso NGO**.  
+The platform enables secure online donations using Stripe and provides a messaging form for community outreach and inquiries.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌍 Project Overview
 
-## Expanding the ESLint configuration
+Bhaso Donation Platform is a responsive React web application designed to:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Accept secure online donations via Stripe
+- Allow users to send messages directly to the organization
+- Increase transparency and accessibility for supporters
+- Provide a smooth and modern donation experience
+
+---
+
+## 🚀 Live Demo
+
+Frontend: (Add Vercel Link)  
+Backend API: (Add Railway Link if applicable)
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- React
+- React Hooks
+- Axios
+- Stripe.js
+- CSS / Tailwind (if used)
+
+**Backend (if applicable)**
+- Spring Boot
+- REST APIs
+- Stripe API
+- Email Service (SendGrid / SMTP)
+
+**Deployment**
+- Frontend: Vercel
+- Backend: Railway
+
+---
+
+## 💳 Features
+
+### 1️⃣ Secure Donations
+- Integrated Stripe Checkout
+- Secure payment processing
+- Dynamic donation amounts
+- Payment confirmation handling
+
+### 2️⃣ Contact / Messaging Form
+- User inquiry form
+- Form validation
+- Backend API integration
+- Email notification to NGO
+
+### 3️⃣ Responsive Design
+- Mobile-friendly layout
+- Clean and accessible UI
+- Optimized performance
+
+---
+
+## 🔐 Security Implementation
+
+- Stripe handles secure payment processing
+- No sensitive payment data stored locally
+- Backend API validation
+- Environment variables for secret keys
+
+---
+
+## 📦 Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/bhaso-donation-platform.git
+cd bhaso-donation-platform
