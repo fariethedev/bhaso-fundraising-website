@@ -43,13 +43,13 @@ export function Testimonial15() {
     {
       quote:
         "BHASO has transformed our community by providing essential support and resources. Their dedication to those affected by HIV/AIDS and climate change is truly inspiring.",
-      name: "Jane Doe",
+      name: "Tariro Ndlovu",
       role: "Community Leader, Harare",
     },
     {
       quote:
         "BHASO’s work is life-changing. They’ve given us hope, education, and healthcare.",
-      name: "John Smith",
+      name: "Kudzai Makoni",
       role: "Teacher, Bulawayo",
     },
     {

@@ -31,15 +31,15 @@ export function Blog35() {
             </a>
             <div className="px-5 py-6 md:p-6">
               <a href="#" className="mb-2 flex text-sm font-semibold">
-                Health
+                Treatment
               </a>
               <a href="#" className="mb-2 block max-w-full">
                 <h5 className="text-xl font-bold md:text-2xl">
-                  Understanding HIV/AIDS in Zimbabwe
+                  Improving Prison Health
                 </h5>
               </a>
               <p>
-                Learn about the challenges and solutions in our communities.
+                Learn about BHASO's efforts to enhance healthcare access and conditions within the prison system.
               </p>
               <div className="mt-6 flex items-center">
                 <div className="mr-4 shrink-0">
@@ -50,7 +50,7 @@ export function Blog35() {
                   />
                 </div>
                 <div>
-                  <h6 className="text-sm font-semibold">John Doe</h6>
+                  <h6 className="text-sm font-semibold">Farai Ndhlovu</h6>
                   <div className="flex items-center">
                     <p className="text-sm">11 Jan 2022</p>
                     <span className="mx-2">•</span>
@@ -75,14 +75,14 @@ export function Blog35() {
             </a>
             <div className="px-5 py-6 md:p-6">
               <a href="#" className="mb-2 flex text-sm font-semibold">
-                Environment
+                Youth
               </a>
               <a href="#" className="mb-2 block max-w-full">
                 <h5 className="text-xl font-bold md:text-2xl">
-                  Climate Change and Its Impact
+                  Sexual Reproductive Health
                 </h5>
               </a>
-              <p>Discover how climate change affects local health issues.</p>
+              <p>Empowering adolescents and young people living with HIV through ASRHR initiatives.</p>
               <div className="mt-6 flex items-center">
                 <div className="mr-4 shrink-0">
                   <img
@@ -92,7 +92,7 @@ export function Blog35() {
                   />
                 </div>
                 <div>
-                  <h6 className="text-sm font-semibold">Jane Smith</h6>
+                  <h6 className="text-sm font-semibold">Chiedza Mutero</h6>
                   <div className="flex items-center">
                     <p className="text-sm">15 Feb 2022</p>
                     <span className="mx-2">•</span>
@@ -119,11 +119,11 @@ export function Blog35() {
               </a>
               <a href="#" className="mb-2 block max-w-full">
                 <h5 className="text-xl font-bold md:text-2xl">
-                  Empowering Local Voices
+                  Ending AIDS by 2030
                 </h5>
               </a>
               <p>
-                Hear from community leaders on their experiences and insights.
+                Our strategic focus on Key Populations and how we are building community systems.
               </p>
               <div className="mt-6 flex items-center">
                 <div className="mr-4 shrink-0">
@@ -134,7 +134,7 @@ export function Blog35() {
                   />
                 </div>
                 <div>
-                  <h6 className="text-sm font-semibold">Alice Johnson</h6>
+                  <h6 className="text-sm font-semibold">Rudo Gumbo</h6>
                   <div className="flex items-center">
                     <p className="text-sm">20 Mar 2022</p>
                     <span className="mx-2">•</span>

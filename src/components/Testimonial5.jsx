@@ -7,12 +7,12 @@ import { motion, AnimatePresence } from "framer-motion";
 const testimonials = [
   {
     quote: "BHASO's initiatives have empowered our community significantly.",
-    name: "Jane Doe",
+    name: "Chipo Mutasa",
     role: "Community Leader, Local NGO",
   },
   {
     quote: "The programs offered by BHASO are life-saving and transformative.",
-    name: "John Smith",
+    name: "Tendai Mapfumo",
     role: "Health Worker, NGO",
   },
   {
@@ -98,8 +98,8 @@ export function Testimonial5() {
         <button
           onClick={handleNext}
           className={`p-4 rounded-full border border-white/20 bg-transparent hover:bg-[#14b8a6] hover:border-[#14b8a6] transition-all duration-300 ${startIndex + 3 >= testimonials.length
-              ? "opacity-30 cursor-not-allowed hover:bg-transparent hover:border-white/20"
-              : ""
+            ? "opacity-30 cursor-not-allowed hover:bg-transparent hover:border-white/20"
+            : ""
             }`}
           disabled={startIndex + 3 >= testimonials.length}
         >

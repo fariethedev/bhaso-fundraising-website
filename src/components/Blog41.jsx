@@ -42,10 +42,10 @@ export function Blog41() {
             </a>
             <a href="#" className="mb-2 block max-w-full">
               <h5 className="text-xl font-bold md:text-2xl">
-                Understanding HIV/AIDS in Zimbabwe
+                The Legacy of Auxilia Chimusoro
               </h5>
             </a>
-            <p>A deep dive into the ongoing challenges faced.</p>
+            <p>How one woman's brave disclosure in 1992 sparked a movement for HIV/AIDS support in Masvingo.</p>
             <div className="mt-6 flex items-center">
               <div className="mr-4 shrink-0">
                 <img
@@ -55,7 +55,7 @@ export function Blog41() {
                 />
               </div>
               <div>
-                <h6 className="text-sm font-semibold">John Doe</h6>
+                <h6 className="text-sm font-semibold">Nyasha Gumbo</h6>
                 <div className="flex items-center">
                   <p className="text-sm">11 Jan 2022</p>
                   <span className="mx-2">•</span>
@@ -78,14 +78,14 @@ export function Blog41() {
               href="#"
               className="mr-4 mb-2 inline-block max-w-full text-sm font-semibold"
             >
-              Climate
+              Treatment
             </a>
             <a href="#" className="mb-2 block max-w-full">
               <h5 className="text-xl font-bold md:text-2xl">
-                Climate Change and Health
+                Community HIV/TB Management
               </h5>
             </a>
-            <p>How climate impacts health in our communities.</p>
+            <p>Expanding treatment access and building community resilience across nine districts in Zimbabwe.</p>
             <div className="mt-6 flex items-center">
               <div className="mr-4 shrink-0">
                 <img
@@ -95,7 +95,7 @@ export function Blog41() {
                 />
               </div>
               <div>
-                <h6 className="text-sm font-semibold">Jane Smith</h6>
+                <h6 className="text-sm font-semibold">Tafadzwa Chiri</h6>
                 <div className="flex items-center">
                   <p className="text-sm">15 Feb 2022</p>
                   <span className="mx-2">•</span>
@@ -118,14 +118,14 @@ export function Blog41() {
               href="#"
               className="mr-4 mb-2 inline-block max-w-full text-sm font-semibold"
             >
-              Awareness
+              Support
             </a>
             <a href="#" className="mb-2 block max-w-full">
               <h5 className="text-xl font-bold md:text-2xl">
-                Raising Awareness on HIV
+                Empowering the Vulnerable
               </h5>
             </a>
-            <p>Join us in spreading crucial information about HIV.</p>
+            <p>Our commitment to supporting orphans, rural farmers, and the youth in the fight against AIDS.</p>
             <div className="mt-6 flex items-center">
               <div className="mr-4 shrink-0">
                 <img
@@ -135,7 +135,7 @@ export function Blog41() {
                 />
               </div>
               <div>
-                <h6 className="text-sm font-semibold">Alice Brown</h6>
+                <h6 className="text-sm font-semibold">Ruvarashe Sibanda</h6>
                 <div className="flex items-center">
                   <p className="text-sm">20 Mar 2022</p>
                   <span className="mx-2">•</span>

@@ -38,7 +38,7 @@ export function CookieBar() {
                     <div className="max-w-4xl mx-auto bg-gray-900/95 backdrop-blur-md text-white rounded-2xl shadow-2xl p-6 md:px-8 border border-white/10 flex flex-col md:flex-row items-center gap-6 justify-between">
                         <div className="flex-1 text-center md:text-left">
                             <h4 className="font-bold text-lg mb-1 flex items-center justify-center md:justify-start gap-2">
-                                <span className="text-xl">🍪</span> We respect your privacy
+                                We respect your privacy
                             </h4>
                             <p className="text-sm text-gray-300 font-light leading-relaxed">
                                 We use cookies to improve your experience on our site and deliver personalized content. By continuing to use our website, you agree to our use of cookies.
