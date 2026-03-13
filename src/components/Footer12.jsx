@@ -25,7 +25,7 @@ export function Footer12() {
               </p>
               <div className="flex flex-wrap gap-4">
                 <Link
-                  to="/strategic-plan"
+                  to="/our-work"
                   className="px-4 py-2 bg-[#0e3322] hover:bg-[#14b8a6] text-white rounded text-sm transition"
                 >
                   View Strategic Plan
@@ -55,10 +55,10 @@ export function Footer12() {
             <div>
               <h3 className="text-xl font-bold mb-4">Get Involved</h3>
               <ul className="space-y-2 text-gray-300 font-light">
-                <li><Link to="/GetInvolved" className="hover:underline">Volunteer</Link></li>
-                <li><Link to="/Donate" className="hover:underline">Donate</Link></li>
-                <li><Link to="/GetInvolved" className="hover:underline">Partnerships</Link></li>
-                <li><Link to="/BlogPost" className="hover:underline">News & Updates</Link></li>
+                <li><Link to="/get-involved" className="hover:underline">Volunteer</Link></li>
+                <li><Link to="/donate" className="hover:underline">Donate</Link></li>
+                <li><Link to="/get-involved" className="hover:underline">Partnerships</Link></li>
+                <li><Link to="/blog" className="hover:underline">News & Updates</Link></li>
               </ul>
             </div>
 

@@ -128,6 +128,12 @@ export function Navbar2() {
           >
             Our Work
           </Link>
+          <Link
+            to="/blog"
+            className="block py-3 text-md font-bold lg:px-4 lg:py-2 lg:text-base hover:text-[#14b8a6] transition-colors duration-200"
+          >
+            News
+          </Link>
 
           {/* Dropdown */}
           <div
@@ -174,12 +180,6 @@ export function Navbar2() {
                   className="block py-3 text-center font-bold lg:px-4 lg:py-2 lg:text-left hover:bg-[#14b8a6] hover:text-white transition-colors duration-200 rounded-md"
                 >
                   Volunteer
-                </Link>
-                <Link
-                  to="/blog"
-                  className="block py-3 text-center font-bold lg:px-4 lg:py-2 lg:text-left hover:bg-[#14b8a6] hover:text-white transition-colors duration-200 rounded-md"
-                >
-                  Blog Posts
                 </Link>
                 <Link
                   to="/contact"
